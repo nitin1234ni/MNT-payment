@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MNT-payment/static/css/main.9919f3b6.css",
+    "main.js": "/MNT-payment/static/js/main.796b02a2.js",
+    "index.html": "/MNT-payment/index.html",
+    "main.9919f3b6.css.map": "/MNT-payment/static/css/main.9919f3b6.css.map",
+    "main.796b02a2.js.map": "/MNT-payment/static/js/main.796b02a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9919f3b6.css",
+    "static/js/main.796b02a2.js"
+  ]
+}
